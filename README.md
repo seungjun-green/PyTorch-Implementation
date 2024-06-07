@@ -6,4 +6,4 @@ Downloaded the dataset from torchtext.datasets.IMDB and preprocessed it into a D
 
 
 ### DenseNet
-Following the DenseNet paper, I implemented DenseNet-BC, the version for ImageNet classification that has four dense blocks.
+Following the DenseNet paper, implemented DenseNet-BC with settings of {L=121, k=32}.
