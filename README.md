@@ -1,17 +1,34 @@
 # PyTorch-Implementations
 
+## CNN
+
+**[DenseNet-BC](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/CNN/DenseNet_BC_Implementation.ipynb)**
+
+Following the DenseNet paper, implemented DenseNet-BC with settings of {L=121, k=32}.
 
 ## NLP
 
-**IMDB Sentiment Classification**
+**[IMDB Sentiment Classification](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/NLP/IMDB%20Sentiment%20Classification.ipynb)**
 
 Downloaded the dataset from torchtext.datasets.IMDB and preprocessed it into a DataLoader format where an example is ((32, 256), (32, 1)). Each sentence was tokenized and then numerized using the vocabulary from the training dataset, followed by padding to a length of 256. Then created a model that utilizes two layers of bi-directional LSTM layers and trained it with the dataset. It achieved an accuracy of 87% on the validation set.
-[notebook](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/NLP/IMDB%20Sentiment%20Classification.ipynb)
 
 
-## CNN
+## VAE
+[VAE]()
 
-**DenseNet**
+## GANs
 
-Following the DenseNet paper, implemented DenseNet-BC with settings of {L=121, k=32}.
-[notebook](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/CNN/DenseNet_BC_Implementation.ipynb)
+[DCGAN_MNIST]()
+
+[Conditional_GAN]()
+
+[GAN_MNIST]()
+
+[WGAN]()
+
+[Pix2Pix]()
+
+
+## TransFormers
+[ViT-Base]()
+
