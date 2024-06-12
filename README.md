@@ -19,9 +19,13 @@ Downloaded the dataset from torchtext.datasets.IMDB and preprocessed it into a D
 ## GANs
 
 [DCGAN_MNIST]()
+
 [Conditional_GAN]()
+
 [GAN_MNIST]()
+
 [WGAN]()
+
 [Pix2Pix]()
 
 
