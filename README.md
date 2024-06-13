@@ -32,3 +32,6 @@ Downloaded the dataset from torchtext.datasets.IMDB and preprocessed it into a D
 ## TransFormers
 [ViT-Base](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/TransFormers/VIT_Base_Implementation.ipynb)
 
+## Kaggle Competitions
+
+[Digit Recognizer](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/Kaggle%20Competitions/Digit%20Recognizer.ipynb)
