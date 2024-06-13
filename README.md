@@ -14,21 +14,21 @@ Downloaded the dataset from torchtext.datasets.IMDB and preprocessed it into a D
 
 
 ## VAE
-[VAE]()
+[VAE](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/VAE/VAE.ipynb)
 
 ## GANs
 
-[DCGAN_MNIST]()
+[DCGAN_MNIST](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/GAN/DCGAN_MNIST.ipynb)
 
-[Conditional_GAN]()
+[Conditional_GAN](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/GAN/Conditional_GAN.ipynb)
 
-[GAN_MNIST]()
+[GAN_MNIST](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/GAN/GAN_MNIST.ipynb)
 
-[WGAN]()
+[WGAN](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/GAN/WGAN.ipynb)
 
-[Pix2Pix]()
+[Pix2Pix](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/GAN/Pix2Pix.ipynb)
 
 
 ## TransFormers
-[ViT-Base]()
+[ViT-Base](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/TransFormers/VIT_Base_Implementation.ipynb)
 
