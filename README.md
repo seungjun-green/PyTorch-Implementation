@@ -35,5 +35,7 @@ Downloaded the dataset from torchtext.datasets.IMDB and preprocessed it into a D
 ## Kaggle Competitions
 
 [Digit Recognizer](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/Kaggle%20Competitions/Digit%20Recognizer.ipynb)
+
 [Facial Keypoints Detection]()
+
 [Natural Language Processing with Disaster Tweets]()
