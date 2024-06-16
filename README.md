@@ -40,4 +40,4 @@ Downloaded the dataset from torchtext.datasets.IMDB and preprocessed it into a D
 
 [Facial Keypoints Detection]()
 
-[Natural Language Processing with Disaster Tweets]()
+[Natural Language Processing with Disaster Tweets](https://github.com/seungjun-green/PyTorch-Implementations/blob/main/Kaggle%20Competitions/Natural%20Language%20Processing%20with%20Disaster%20Tweets.ipynb)
